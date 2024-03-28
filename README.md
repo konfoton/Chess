@@ -1,1 +1,2 @@
 # Chess
+Chess in SFML
